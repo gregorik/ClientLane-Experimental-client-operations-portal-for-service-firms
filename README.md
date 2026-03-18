@@ -37,18 +37,18 @@ This workspace now contains:</p>
 <ol>
 <li>Start the Laravel API:</li>
 </ol>
-<pre><code class="language-powershell">cd C:\1gregorigin\NEW\backend
-&amp; &#39;C:\1gregorigin\NEW\.tools\php\php.exe&#39; artisan serve
+<pre><code class="language-powershell">cd \backend
+&amp; &#39;\.tools\php\php.exe&#39; artisan serve
 </code></pre>
 <p>Use this exact command instead:</p>
-<pre><code class="language-powershell">cd C:\1gregorigin\NEW\backend
-&amp; &#39;C:\1gregorigin\NEW\.tools\php\php.exe&#39; artisan migrate:fresh --seed
-&amp; &#39;C:\1gregorigin\NEW\.tools\php\php.exe&#39; artisan serve
+<pre><code class="language-powershell">cd \backend
+&amp; &#39;\.tools\php\php.exe&#39; artisan migrate:fresh --seed
+&amp; &#39;\.tools\php\php.exe&#39; artisan serve
 </code></pre>
 <ol start="2">
 <li>Start the Next.js frontend:</li>
 </ol>
-<pre><code class="language-powershell">cd C:\1gregorigin\NEW\frontend
+<pre><code class="language-powershell">cd \frontend
 copy .env.local.example .env.local
 npm run dev
 </code></pre>
@@ -62,12 +62,12 @@ npm run dev
 </ul>
 <h2>Verified commands</h2>
 <p>Backend:</p>
-<pre><code class="language-powershell">cd C:\1gregorigin\NEW\backend
-&amp; &#39;C:\1gregorigin\NEW\.tools\php\php.exe&#39; artisan migrate:fresh --seed
-&amp; &#39;C:\1gregorigin\NEW\.tools\php\php.exe&#39; artisan test
+<pre><code class="language-powershell">cd \backend
+&amp; &#39;\.tools\php\php.exe&#39; artisan migrate:fresh --seed
+&amp; &#39;\.tools\php\php.exe&#39; artisan test
 </code></pre>
 <p>Frontend:</p>
-<pre><code class="language-powershell">cd C:\1gregorigin\NEW\frontend
+<pre><code class="language-powershell">cd \frontend
 npm run lint
 npm run build
 </code></pre>
