@@ -1,4 +1,8 @@
 <h1>ClientLane MVP</h1>
+
+![Client0](https://github.com/user-attachments/assets/0aa179b1-a32e-41cf-b30c-efede5c49129)
+
+
 <p>ClientLane is a client operations portal MVP for service firms. 
 
 - It solves a concrete, expensive annoyance: status-check emails, missing files, and scattered client communication.
@@ -19,6 +23,9 @@
 - It can be piloted manually with a few firms before broader launch, so validation does not require ads or a large go-
     to-market motion.
 - It is narrow enough to be credible and broad enough to expand into adjacent service niches later.
+
+![Client1](https://github.com/user-attachments/assets/94b4733b-6ed1-4d64-bfff-558dd2e9b8c3)
+
   
   
 This workspace now contains:</p>
