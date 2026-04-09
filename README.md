@@ -2,6 +2,7 @@
 
 ![Client0](https://github.com/user-attachments/assets/0aa179b1-a32e-41cf-b30c-efede5c49129)
 
+*[This repository is a FOSS solution to a persistent problem in online service industry client operations. 🟢 Currently available for B2B consulting and remote contract/Co-Dev integration (CET Timezone). [Contact form.](https://gregorigin.com/contact.html)]*
 
 <p>ClientLane is a client operations portal MVP for service firms. 
 
